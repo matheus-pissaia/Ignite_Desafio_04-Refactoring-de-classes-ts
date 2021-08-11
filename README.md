@@ -1,0 +1,20 @@
+# Refatorando Classes
+Arquivos que passaram pela **refatoração**:
+- _src/App.tsx_ [ X ];
+- _src/index.tsx_ [ X ];
+- _src/services/api.js_ [ X ];
+- _src/styles/global.js_ [ X ];
+- _src/routes/index.jsx_ [ X ];
+- _src/pages/Dashboard/index.jsx_ [ X ];
+- _src/pages/Dashboard/styles.js_ [ X ];
+- _src/components/Food/index.jsx_ [ X ];
+- _src/components/Food/styles.js_ [ X ];
+- _src/components/Header/index.jsx_ [ X ];
+- _src/components/Header/styles.js_ [ X ];
+- _src/components/Input/index.jsx_ [ X ];
+- _src/components/Input/styles.js_ [ X ];
+- _src/components/Modal/index.jsx_ [ X ];
+- _src/components/ModalAddFood/index.jsx_ [ X ];
+- _src/components/ModalAddFood/styles.js_ [ X ];
+- _src/components/ModalEditFood/index.jsx_ [ X ];
+- _src/components/ModalEditFood/styles.js_ [ X ];
